@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: example_package_namecaller
+Version: 0.0.1
+Summary: A small example package to call your name
+Author-email: Example Author <author@example.com>
+Project-URL: Homepage, https://github.com/coderwessel/ps-py
+Project-URL: Issues, https://github.com/coderwessel/ps-py/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# namecaller.py
+
+* simple python script to check how to easlily install and run a random python script in windows powershell or command shell with requirements.
+* installation ???
+* instructictions:
+```
+usage: namecaller.py [-h] [--version] [name]
+
+PS> python namecaller.py piet, calls out piet
+
+positional arguments:
+  name
+
+options:
+  -h, --help  show this help message and exit
+  --version   show program's version number and exit
+```
