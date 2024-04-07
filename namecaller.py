@@ -2,7 +2,7 @@ import argparse
 from art import text2art
 
 parser = argparse.ArgumentParser(
-		description			= "python %(prog)s piet, calls out piet",
+		description			= "PS> python %(prog)s piet, calls out piet",
 		epilog				= '',
 		add_help			= True
 	)
